@@ -12,4 +12,4 @@ A simple command-line To-Do list application that allows users to add, remove, a
 To clone this repository and get started with the projects, run:
 
 ```bash
-git clone https://github.com/blu3OceanWaves/your-repo-name.git
+git clone https://github.com/blu3OceanWaves/Java-Projects.git
