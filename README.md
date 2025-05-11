@@ -1,4 +1,4 @@
-# Java Projects
+# Java Projects<img src="https://www.oracle.com/a/ocom/img/cb71-java-logo.png" alt="Java Logo" width="60"/>
 
 This repository contains a collection of my Java projects, each stored in its own folder.
 
